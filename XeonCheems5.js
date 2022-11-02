@@ -995,7 +995,7 @@ Type *give up* to surrender and admit defeat`
             }
             break
 	case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
-teks = `*「 ${global.botname} Script 」*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nDont forget to donate 🍜`
+teks = `*「 ${global.botname} Script 」*\n\nInstagram: https://instagram.com/andy_mr_lit\nGroup official: *https://chat.whatsapp.com/FvuaHOO3E9x29tD1ne1ALg*\n\nContact owner to join to get Github link
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner 🌺'}, type: 1}
 ]
@@ -5563,7 +5563,7 @@ case 'readqr':{
 case 'swm': case 'stickerwm': case 'wm': case 'take': {  
             let text1 = q.split("|")[0]
             let text2 = q.split("|")[1]
-              if (!isQuotedSticker) return m.reply(`Reply to a sticker with caption ext|text\n\nExample: ${prefix + command} Cheems|Xeon`)   
+              if (!isQuotedSticker) return m.reply(`Reply to a sticker with caption ext|text\n\nExample: ${prefix + command} USA|BOT`)   
               if (!text1) return m.reply(`Example! : ${order + ' ' + `Cheems|Xeon`}`)    
               if (!text2) return m.reply(`Example! : ${order + ' ' + `Cheems|Xeon`}`)
                 XeonBotInc.sendMessage(from, { react: { text: "⏱️", key: m.key }})
@@ -5726,8 +5726,10 @@ break
 case 'tqtt': 
 throw `Thanks to
 LORD BUDDHA
-Xeon (Me)
+Xeon (author)
 My family
+andymrlit (recode)
+maxi
 And all friends who helped assemble this sexy script !!!`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
@@ -5736,17 +5738,17 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let timestampe = speed();
             let latensie = speed() - timestampe
             let xeonezy = `┌─❖
-│「 Hi 👋 」
+│「 Bro 🇺🇲 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  ${ucapanWaktu} 😄
+┌┤✑  ${ucapanWaktu} 😎
 │└────────────┈ ⳹
 │
 └─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
 │𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
 │𝗣𝗼𝘄𝗲𝗿𝗲𝗱 : @${ini_mark.split('@')[0]}
-│𝗕𝗼𝘁 : ${global.botname}
-│𝗢𝘄𝗻𝗲𝗿 : @${ownernya.split('@')[0]}
+│𝗕𝗼𝘁 : USA BOT MD 🇺🇲
+│𝗢𝘄𝗻𝗲𝗿 : ANDYMRLIT
 │𝗣𝗿𝗲𝗳𝗶𝘅 : 「 NO-PREFIX 」
 │𝗠𝗼𝗱𝗲 : ${XeonBotInc.public ? 'Public' : `Self`}
 │𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
@@ -5924,8 +5926,8 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 						]
 const listMessage = {
   text: "Please choose the menu",
-  footer: `「${botname}」\n📍YouTube: ${websitex}\n🍜Script: ${botscript}`,
-  title: `Hi 👋 ${pushname}`,
+  footer: `「${botname}」\n📍 Instagram: ${websitex}\n🍜Script: ${botscript}`,
+  title: `bro 🇺🇲 ${pushname}`,
   buttonText: "Menu",
   sections
 }
