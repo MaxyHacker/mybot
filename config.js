@@ -14,29 +14,29 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6287778405247'] //ur owner number
-global.ownername = "🦄Nabot Xeon" //ur owner name
-global.ytname = "YT: Not_Reii" //ur yt chanel name
-global.socialm = "GitHub: Reiibotz" //ur github or insta name
+global.vcardowner = ['50941411147'] //ur owner number
+global.ownername = "andymrlit" //ur owner name
+global.ytname = "YT: andyOfc" //ur yt chanel name
+global.socialm = "GitHub: Xeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['6287778405247'] //ur number
-global.ownernomer = "6287778405247" //ur number
-global.ownertag = '6287778405247' //ur tag number
-global.premium = ['6287778405247'] //ur premium number
-global.botname = 'Nabot  V1' //ur bot name
-global.ownername = "🦄Reii"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['50941411147'] //ur number
+global.ownernomer = "50941411147" //ur number
+global.ownertag = '50941411147' //ur tag number
+global.premium = ['50941411147'] //ur premium number
+global.botname = 'USA BOT MD' //ur bot name
+global.ownername = "andymrlit"
+global.linkz = "https://instagram.com/andy_mr_lit" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/andy_mr_lit" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Nabot " //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.author = "andy mr lit" //ur sticker watermark author
+global.wm = "Andy mr lit hacker." //ur watermark
 
 // Other
-global.sessionName = 'session'
+global.sessionName = 'andy'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
