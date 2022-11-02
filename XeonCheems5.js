@@ -995,7 +995,7 @@ Type *give up* to surrender and admit defeat`
             }
             break
 	case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
-teks = `*「 ${global.botname} Script 」*\n\nInstagram: https://instagram.com/andy_mr_lit\nGroup official: *https://chat.whatsapp.com/FvuaHOO3E9x29tD1ne1ALg*\n\nContact owner to join to get Github link
+teks = `*「 ${global.botname} Script 」*\n\nInstagram: https://instagram.com/andy_mr_lit\nGroup official: *https://chat.whatsapp.com/FvuaHOO3E9x29tD1ne1ALg*\n\nContact owner to join to get Github link`
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner 🌺'}, type: 1}
 ]
